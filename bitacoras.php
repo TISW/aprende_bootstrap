@@ -27,10 +27,11 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li ><a href="index.php">Practicas</a></li>
-        <li class="active"><a href="#">Empresa</a></li>
-        <li><a href="#">Bitacora</a></li>
+        <li><a href="index.php">Practicas</a></li>
+        <li><a href="empresa.php">Empresas</a></li>
+        <li class="active"><a href="bitacoras.php">Bitacoras</a></li>
         <li><a href="alumno.php">Alumnos</a></li>
+
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Bienvenido Pato</a></li>
@@ -41,7 +42,7 @@
             <li><a href="#">Another action</a></li>
             <li><a href="#">Something else here</a></li>
             <li class="divider"></li>
-            <li><a href="#">Cerrar Sesion</a></li>
+            <li><a href="#">Separated link</a></li>
           </ul>
         </li>
       </ul>
@@ -52,8 +53,8 @@
 		<div class="col-xs-12 col-sm-2 col-md-2">
 
 			<ul class="nav nav-pills nav-stacked" style="max-width: 300px;">
-      <li class="active"><a href="#">Nueva Empresa</a></li>
-      <li><a href="#">Administrar</a></li>
+      <li class="active"><a href="#">Agregar Bitacora</a></li>
+      <li><a href="#">Historial</a></li>
     </ul>
 		</div>
 		<div class="col-xs-12 col-sm-10 col-md-10">
@@ -63,6 +64,9 @@
               </div>';
      ?>
 		</div>
+	</div>
+	<div class="footer" align="center" style="margin: 150px auto 0;">
+		<img src="acreditacion 1-01.png" width="200" height="150">
 	</div>
 </div>
 <script src="assets/js/jquery.min.js"></script>

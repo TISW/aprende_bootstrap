@@ -27,9 +27,10 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Practicas</a></li>
+        <li class="active"><a href="index">Practicas</a></li>
         <li><a href="empresa.php">Empresa</a></li>
-        <li><a href="#">Bitacora</a></li>
+        <li><a href="bitacoras.php">Bitacora</a></li>
+        <li><a href="alumno.php">Alumnos</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Bienvenido Pato</a></li>
