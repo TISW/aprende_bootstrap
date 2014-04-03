@@ -58,58 +58,11 @@
     </ul>
 		</div>
 		<div class="col-xs-12 col-sm-10 col-md-10">
-    <h1>Alumnos en Practica</h1>
-			<table class="table">
-        <thead>
-          <tr>
-            <th>#</th>
-            <th>Nombre</th>
-            <th>Apellido</th>
-            <th>Requisito 1</th>
-            <th>Requisito 2</th>
-            <th>Papel 1</th>
-            <th>Papel 2</th>
-            <th>Contacto</th>
-            <th>Bitácora</th>
-            <th>Nota Profesor</th>
-            <th>Nota Contacto</th>
-            <th>Estado</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1</td>
-            <td>Mark</td>
-            <td>Otto</td>
-            <td>
-    			<input type="checkbox">
-      		</td>
-            <td>
-    			<input type="checkbox">
-      		</td>
-      		<td>
-    			<input type="checkbox">
-      		</td>
-      		<td>
-    			<input type="checkbox">
-      		</td>
-            <td>1</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>2</td>
-            <td>Jacob</td>
-            <td>Thornton</td>
-            <td>@fat</td>
-          </tr>
-          <tr>
-            <td>3</td>
-            <td>Larry</td>
-            <td>the Bird</td>
-            <td>@twitter</td>
-          </tr>
-        </tbody>
-      </table>
+      <?php if(isset($content)) echo $content;else 
+       echo '<div class="alert alert-danger">
+                 <strong>Nos se a cargado la vista</strong> No tiene los permisos para acceder a la pagina.
+              </div>';
+     ?>
 		</div>
 	</div>
 </div>
