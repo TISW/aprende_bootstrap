@@ -49,6 +49,7 @@
 </nav>
 	<div class="row">
 		<div class="col-xs-12 col-sm-2 col-md-2">
+
 			<ul class="nav nav-pills nav-stacked" style="max-width: 300px;">
       <li class="active"><a href="#">Administrar Practicas</a></li>
       <li><a href="#">Practica 1</a></li>
@@ -57,6 +58,7 @@
     </ul>
 		</div>
 		<div class="col-xs-12 col-sm-10 col-md-10">
+    <h1>Alumnos en Practica</h1>
 			<table class="table">
         <thead>
           <tr>
