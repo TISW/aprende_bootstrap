@@ -27,10 +27,10 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Practicas</a></li>
-        <li><a href="#">Empresas</a></li>
-        <li><a href="#">Bitacoras</a></li>
-        <li><a href="#">Alumnos</a></li>
+        <li><a href="index.php">Practicas</a></li>
+        <li><a href="empresa.php">Empresas</a></li>
+        <li class="active"><a href="bitacoras.php">Bitacoras</a></li>
+        <li><a href="alumno.php">Alumnos</a></li>
 
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -53,10 +53,8 @@
 		<div class="col-xs-12 col-sm-2 col-md-2">
 
 			<ul class="nav nav-pills nav-stacked" style="max-width: 300px;">
-        <li  class="active"><a href="index.php">Practicas</a></li>
-        <li><a href="empresa.php">Empresas</a></li>
-        <li><a href="bitacoras.php">Bitacoras</a></li>
-        <li><a href="alumno.php">Alumnos</a></li>
+      <li class="active"><a href="#">Agregar Bitacora</a></li>
+      <li><a href="#">Historial</a></li>
     </ul>
 		</div>
 		<div class="col-xs-12 col-sm-10 col-md-10">
