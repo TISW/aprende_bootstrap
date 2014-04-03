@@ -27,10 +27,10 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Practicas</a></li>
-        <li><a href="#">Empresas</a></li>
-        <li><a href="#">Bitacoras</a></li>
-        <li><a href="#">Alumnos</a></li>
+        <li  class="active"><a href="index.php">Practicas</a></li>
+        <li ><a href="empresa.php">Empresas</a></li>
+        <li><a href="bitacoras.php">Bitacoras</a></li>
+        <li><a href="alumno.php">Alumnos</a></li>
 
       </ul>
       <ul class="nav navbar-nav navbar-right">
