@@ -28,10 +28,9 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Practicas</a></li>
-        <li><a href="#">Empresa</a></li>
-        <li><a href="#">Bitacora</a></li>
-        <li><a href="#">Alumno</a></li>
-        <li><a href="#">Empresa</a></li>
+        <li><a href="#">Empresas</a></li>
+        <li><a href="#">Bitacoras</a></li>
+        <li><a href="#">Alumnos</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Bienvenido Pato</a></li>
@@ -66,6 +65,9 @@
               </div>';
      ?>
 		</div>
+	</div>
+	<div class="footer" align="center" style="margin: 150px auto 0;">
+		<img src="acreditacion 1-01.png" width="200" height="150">
 	</div>
 </div>
 <script src="assets/js/jquery.min.js"></script>
