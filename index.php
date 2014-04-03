@@ -30,6 +30,8 @@
         <li class="active"><a href="#">Practicas</a></li>
         <li><a href="#">Empresa</a></li>
         <li><a href="#">Bitacora</a></li>
+        <li><a href="#">Alumno</a></li>
+        <li><a href="#">Empresa</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Bienvenido Pato</a></li>
