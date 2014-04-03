@@ -27,8 +27,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Practicas</a></li>
-        <li><a href="empresa.php">Empresa</a></li>
+        <li ><a href="index.php">Practicas</a></li>
+        <li class="active"><a href="#">Empresa</a></li>
         <li><a href="#">Bitacora</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -40,7 +40,7 @@
             <li><a href="#">Another action</a></li>
             <li><a href="#">Something else here</a></li>
             <li class="divider"></li>
-            <li><a href="#">Separated link</a></li>
+            <li><a href="#">Cerrar Sesion</a></li>
           </ul>
         </li>
       </ul>
@@ -51,10 +51,8 @@
 		<div class="col-xs-12 col-sm-2 col-md-2">
 
 			<ul class="nav nav-pills nav-stacked" style="max-width: 300px;">
-      <li class="active"><a href="#">Administrar Practicas</a></li>
-      <li><a href="#">Practica 1</a></li>
-      <li><a href="#">Practica 2</a></li>
-      <li><a href="#">Historial</a></li>
+      <li class="active"><a href="#">Nueva Empresa</a></li>
+      <li><a href="#">Administrar</a></li>
     </ul>
 		</div>
 		<div class="col-xs-12 col-sm-10 col-md-10">
